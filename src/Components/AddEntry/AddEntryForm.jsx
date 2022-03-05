@@ -27,5 +27,4 @@ function handleSubmit(event){
     );
 }
    
- 
 export default AddEntryForm;
